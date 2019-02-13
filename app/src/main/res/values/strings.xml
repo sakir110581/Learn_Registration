@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Learn_Registration</string>
+    <string name="margin_5">5dp</string>
+    <string name="margin_10">10dp</string>
+    <string name="margin_15">15dp</string>
+    <string name="margin_20">20dp</string>
+    <string name="margin_25">25dp</string>
+</resources>
